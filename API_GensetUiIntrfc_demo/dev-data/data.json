@@ -1,0 +1,226 @@
+[
+  {
+    "id": 0,
+    "productName": "Mains Supply",
+    "fieldname": "Mains",
+    "object": "Led Ind. green",
+    "description": "Mains Contactor control in RUN mode."
+   },
+   {
+    "id": 1,
+    "productName": "Mains Supply",
+    "fieldname": "Genset",
+    "object": "Led Ind. yellow",
+    "description": "Genset Contactor control in RUN mode."
+   },
+   {
+    "id": 2,
+    "productName": "Mains Supply",
+    "fieldname": "Auto Ready",
+    "object": "Led Ind. green",
+    "description": "The genset ready to run when necessary."
+   },
+   {
+    "id": 3,
+    "productName": "Mains Supply",
+    "fieldname": "Test",
+    "object": "Led Ind. yellow",
+    "description": "The genset runs in TEST state."
+   },
+   {
+    "id": 4,
+    "productName": "Mains Supply",
+    "fieldname": "Alarm",
+    "object": "Led Ind. red",
+    "description": "Turns on when a shutdown alarm exists."
+   },
+   {
+    "id": 5,
+    "productName": "Mains Supply",
+    "fieldname": "Warning",
+    "object": "Led Ind. red",
+    "description": "Turns on when a shutdown alarm exists."
+   },
+   {
+    "id": 6,
+    "productName": "Mains Supply",
+    "fieldname": "Service",
+    "object": "Led Ind. red",
+    "description": "Turns on when at least one of service counters has expired."
+   },
+   {
+    "id": 7,
+    "productName": "Mains Supply",
+    "fieldname": "Validation",
+    "object": "Inspect",
+    "description": "Validation status label."
+   },
+   {
+    "id": 8,
+    "productName": "Mains",
+    "fieldname": "L1 Volt",
+    "object": "Num. [V]",
+    "description": "voltage phase L1 to neutral."
+   },
+   {
+    "id": 9,
+    "productName": "Mains",
+    "fieldname": "L2 Volt",
+    "object": "Num. [V]",
+    "description": "voltage phase L2 to neutral."
+   },
+   {
+    "id": 10,
+    "productName": "Mains",
+    "fieldname": "L3 Volt",
+    "object": "Num. [V]",
+    "description": "voltage phase L3s to neutral."
+   },
+   {
+    "id": 11,
+    "productName": "Mains",
+    "fieldname": "L1 Amps",
+    "object": "Num. [A]",
+    "description": "current phase L1."
+   },
+   {
+    "id": 12,
+    "productName": "Mains",
+    "fieldname": "L2 Amps",
+    "object": "Num. [A]",
+    "description": "current phase L2."
+   },
+   {
+    "id": 13,
+    "productName": "Mains",
+    "fieldname": "L3 Amps",
+    "object": "Num. [A]",
+    "description": "current phase L3."
+   },
+      {
+    "id": 14,
+    "productName": "Mains",
+    "fieldname": "Frequency",
+    "object": "Num. [Hz]",
+    "description": "present frequency."
+   },
+   {
+    "id": 15,
+    "productName": "Mains",
+    "fieldname": "Total kW",
+    "object": "Num. [kw]",
+    "description": "power rate."
+   },
+   {
+    "id": 16,
+    "productName": "Genset",
+    "fieldname": "L1 Volt",
+    "object": "Num. [V]",
+    "description": "voltage phase L1 to neutral."
+   },
+   {
+    "id": 17,
+    "productName": "Genset",
+    "fieldname": "L2 Volt",
+    "object": "Num. [V]",
+    "description": "voltage phase L2 to neutral."
+   },
+   {
+    "id": 18,
+    "productName": "Genset",
+    "fieldname": "L3 Volt",
+    "object": "Num. [V]",
+    "description": "voltage phase L3s to neutral."
+   },
+   {
+    "id": 19,
+    "productName": "Genset",
+    "fieldname": "L1 Amps",
+    "object": "Num. [A]",
+    "description": "current phase L1."
+   },
+   {
+    "id": 20,
+    "productName": "Genset",
+    "fieldname": "L2 Amps",
+    "object": "Num. [A]",
+    "description": "current phase L2."
+   },
+   {
+    "id": 21,
+    "productName": "Genset",
+    "fieldname": "L3 Amps",
+    "object": "Num. [A]",
+    "description": "current phase L3."
+   },
+   {
+    "id": 22,
+    "productName": "Genset",
+    "fieldname": "Frequency",
+    "object": "Num. [Hz]",
+    "description": "present frequency."
+   },
+   {
+    "id": 23,
+    "productName": "Genset",
+    "fieldname": "Total kW",
+    "object": "Num. [kw]",
+    "description": "power rate."
+   },
+   {
+    "id": 24,
+    "productName": "Engine",
+    "fieldname": "Speed",
+    "object": "Num. [Rpm]",
+    "description": "Engine RPM."
+   },
+   {
+    "id": 25,
+    "productName": "Engine",
+    "fieldname": "Run Hours",
+    "object": "Num. [h]",
+    "description": "Engine Run Hours Counter."
+   },
+   {
+    "id": 26,
+    "productName": "Engine",
+    "fieldname": "Fuel Level",
+    "object": "Num. [%]",
+    "description": "Fuel tank filling level."
+   },
+   {
+    "id": 27,
+    "productName": "Engine",
+    "fieldname": "Battery",
+    "object": "Num. [VDC]",
+    "description": "Battery voltage."
+   },
+   {
+    "id": 28,
+    "productName": "Engine",
+    "fieldname": "Oil Prss",
+    "object": "Num. [Bar]",
+    "description": "Oil pressure."
+   },
+   {
+    "id": 29,
+    "productName": "Engine",
+    "fieldname": "Oil Temp",
+    "object": "Num. [C]",
+    "description": "Temperature (°C)."
+   },
+   {
+    "id": 30,
+    "productName": "Engine",
+    "fieldname": "Engine Temp",
+    "object": "Num. [C]",
+    "description": "Temperature (°C)."
+   },
+   {
+    "id": 31,
+    "productName": "Engine",
+    "fieldname": "Canopy Temp",
+    "object": "Num. [C]",
+    "description": "Temperature (°C)."
+   }
+]
